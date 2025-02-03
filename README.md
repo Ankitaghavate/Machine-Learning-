@@ -25,13 +25,15 @@ The repository includes the following machine learning algorithms:
 
 To use the notebooks in this repository, you need to have Python and Jupyter Notebook installed. You can install the required dependencies using `pip`:
 
-```sh```
-pip install -r requirements.txt
+```bash
+  pip install -r requirements.txt
+   ```
+
 # Usage
 To run the notebooks, start Jupyter Notebook:
-
-sh
+```
 jupyter notebook
+```
 Navigate to the notebook you want to explore and open it.
 
 # Contributing
